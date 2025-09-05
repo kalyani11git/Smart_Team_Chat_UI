@@ -6,7 +6,7 @@ Smart Team Chat UI to demonstrate how AI can enhance team communication with sug
 ---
 src/
 
-├── pages/
+├── components/
 
 │ ├── ChatList.jsx
 
@@ -35,3 +35,4 @@ src/
 -React Router
 
 -Tailwind CSS
+
