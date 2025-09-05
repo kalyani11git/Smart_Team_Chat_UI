@@ -1,6 +1,6 @@
 ﻿# Smart_Team_Chat_UI
 
-Smart Team Chat UI to demonstrate how AI can enhance team communication with suggestions, summaries, and prompts.
+Smart Team Chat UI to demonstrate how AI can enhance team communication with suggestions and summaries.
 
 📂 Folder Structure
 ---
@@ -35,4 +35,5 @@ src/
 -React Router
 
 -Tailwind CSS
+
 
